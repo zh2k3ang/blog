@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>article on 丘山</title>
-    <link>http://%E4%B8%98%E5%B1%B1.cn/categories/article/</link>
+    <link>https://zh2k3ang.github.io/categories/article/</link>
     <description>Recent content in article on 丘山</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Jan 2021 16:38:26 +0800</lastBuildDate><atom:link href="http://%E4%B8%98%E5%B1%B1.cn/categories/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 16:38:26 +0800</lastBuildDate><atom:link href="https://zh2k3ang.github.io/categories/article/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>http://%E4%B8%98%E5%B1%B1.cn/posts/test/</link>
+      <link>https://zh2k3ang.github.io/posts/test/</link>
       <pubDate>Sat, 02 Jan 2021 16:38:26 +0800</pubDate>
       
-      <guid>http://%E4%B8%98%E5%B1%B1.cn/posts/test/</guid>
+      <guid>https://zh2k3ang.github.io/posts/test/</guid>
       <description>待续</description>
     </item>
     

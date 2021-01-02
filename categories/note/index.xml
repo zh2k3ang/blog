@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>note on 丘山</title>
-    <link>http://%E4%B8%98%E5%B1%B1.cn/categories/note/</link>
+    <link>https://zh2k3ang.github.io/categories/note/</link>
     <description>Recent content in note on 丘山</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Jan 2021 16:39:23 +0800</lastBuildDate><atom:link href="http://%E4%B8%98%E5%B1%B1.cn/categories/note/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 16:39:23 +0800</lastBuildDate><atom:link href="https://zh2k3ang.github.io/categories/note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>最想做的事</title>
-      <link>http://%E4%B8%98%E5%B1%B1.cn/posts/%E6%9C%80%E6%83%B3%E5%81%9A%E7%9A%84%E4%BA%8B/</link>
+      <link>https://zh2k3ang.github.io/posts/%E6%9C%80%E6%83%B3%E5%81%9A%E7%9A%84%E4%BA%8B/</link>
       <pubDate>Sat, 02 Jan 2021 16:39:23 +0800</pubDate>
       
-      <guid>http://%E4%B8%98%E5%B1%B1.cn/posts/%E6%9C%80%E6%83%B3%E5%81%9A%E7%9A%84%E4%BA%8B/</guid>
+      <guid>https://zh2k3ang.github.io/posts/%E6%9C%80%E6%83%B3%E5%81%9A%E7%9A%84%E4%BA%8B/</guid>
       <description>艳阳、蓝天、草原、骏马于胯下，身后缕缕炊烟
 云幕、周道、旷野、歌谣于耳间，远方群山浮现</description>
     </item>
     
     <item>
       <title>北交大学生自杀</title>
-      <link>http://%E4%B8%98%E5%B1%B1.cn/posts/%E5%8C%97%E4%BA%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80/</link>
+      <link>https://zh2k3ang.github.io/posts/%E5%8C%97%E4%BA%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80/</link>
       <pubDate>Sat, 02 Jan 2021 16:15:56 +0800</pubDate>
       
-      <guid>http://%E4%B8%98%E5%B1%B1.cn/posts/%E5%8C%97%E4%BA%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80/</guid>
+      <guid>https://zh2k3ang.github.io/posts/%E5%8C%97%E4%BA%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%AA%E6%9D%80/</guid>
       <description>他把黑暗与光明分析得太透彻
 用利刃划分界限
 而大多数人只是在混沌中行走</description>
